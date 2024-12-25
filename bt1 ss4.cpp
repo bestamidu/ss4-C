@@ -3,7 +3,7 @@ int main(){
 	int n;
 	printf("nhap n");
 	scanf("%d",&n);
-	if(n>0){
+	if(n>0){qww
 		printf("%d la so nguyen ",n); 
 		}
 	else{
